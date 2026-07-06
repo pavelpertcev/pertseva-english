@@ -1,0 +1,10 @@
+scrape.py
+scrape.js
+scrape-materials.json
+pages-raw.json
+site-data.json
+materials.json
+materials_temp/
+**/_tmp_convert/
+.DS_Store
+Thumbs.db
